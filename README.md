@@ -20,7 +20,7 @@
 - 🌱 Quick learner and reliable team player, eager to apply technical knowledge to real-world projects
 - 🛠️ Solid foundation in Object-Oriented Programming, problem-solving, and database-driven application development
 - 🤝 Strong teamwork, communication, and adaptability skills
-- 📍 Based in Gampaha, Sri Lanka
+
 
 ---
 
