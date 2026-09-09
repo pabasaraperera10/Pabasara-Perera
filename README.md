@@ -14,13 +14,12 @@
 
 ### 🎓 About Me
 
-- 🎓 Pursuing a **BSc (Hons) Software Engineering** at **Cardiff Metropolitan University, UK** (Oct 2024 – Present)
+- 🎓 Software Engineering **undergraduate** pursuing a **BSc (Hons)** at **Cardiff Metropolitan University, UK** (Oct 2024 – Present)
 - 📜 Diploma in Information Technology (Pearson) – ESOFT Metro Campus
 - 💻 Passionate about software development, AI, and emerging technologies
 - 🌱 Quick learner and reliable team player, eager to apply technical knowledge to real-world projects
 - 🛠️ Solid foundation in Object-Oriented Programming, problem-solving, and database-driven application development
 - 🤝 Strong teamwork, communication, and adaptability skills
-
 
 ---
 
@@ -52,9 +51,25 @@
 - 🏥 **Hospital Appointment Management System** – Role-based system for Admin, Doctor, Receptionist & Patient with appointment booking (HTML, CSS, JS, PHP, MySQL)
 - 🎬 **MondyCinema Management System** – Cinema management & ticket booking with seat reservation (HTML, CSS, JS, PHP, MySQL)
 - 📅 **Campus Event Management System** – Cross-platform event app with RSVP & feedback (Flutter, Dart, Firebase)
+- 👟 **City Style Footwear Management System** – Java OOP inventory system with role-based access for Cashiers & Managers (Java, MySQL, JDBC)
+- ♟️ **ABC Chess Academy System** – Menu-driven Java app for player & tournament management (Java, NetBeans)
+- 📚 **Library Management System** – Member registration, inventory management & book issuance tracking (C#, MySQL, Visual Studio)
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabasaraperera10&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabasaraperera10" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasaraperera10&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
   <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
 </p>
