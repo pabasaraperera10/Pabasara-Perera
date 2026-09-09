@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pabasara Sewwandi</h1>
-<h3 align="center">Software Engineering Undergraduate |Aspiring Aspiring Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Undergraduate | Aspiring Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pabasaraperera" target="_blank">
