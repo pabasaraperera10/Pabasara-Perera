@@ -14,7 +14,7 @@
 
 ### 🎓 About Me
 
-- 🎓 Software Engineering **undergraduate** pursuing a **BSc (Hons)** at **Cardiff Metropolitan University, UK** (Oct 2024 – Present)
+- 🎓Software Engineering pursuing a **BSc (Hons)** at **Cardiff Metropolitan University, UK** (Oct 2024 – Present)
 - 📜 Diploma in Information Technology (Pearson) – ESOFT Metro Campus
 - 💻 Passionate about software development, AI, and emerging technologies
 - 🌱 Quick learner and reliable team player, eager to apply technical knowledge to real-world projects
