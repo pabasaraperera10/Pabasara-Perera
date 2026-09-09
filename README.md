@@ -57,3 +57,5 @@
 
 ---
 
+  <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
+</p>
