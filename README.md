@@ -57,5 +57,22 @@
 
 ---
 
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/pabasaraperera" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pabasaraperera10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pabasaraperera10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
 </p>
