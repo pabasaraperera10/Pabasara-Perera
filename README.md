@@ -14,10 +14,13 @@
 
 ### 🎓 About Me
 
-- 🎓 Pursuing **BSc (Hons) Software Engineering** at **Cardiff Metropolitan University, UK**
-- 💻 Interested in software development, AI, and emerging technologies
-- 🌱 Quick learner and reliable team player
-- 📍 Gampaha, Sri Lanka
+- 🎓 Pursuing a **BSc (Hons) Software Engineering** at **Cardiff Metropolitan University, UK** (Oct 2024 – Present)
+- 📜 Diploma in Information Technology (Pearson) – ESOFT Metro Campus
+- 💻 Passionate about software development, AI, and emerging technologies
+- 🌱 Quick learner and reliable team player, eager to apply technical knowledge to real-world projects
+- 🛠️ Solid foundation in Object-Oriented Programming, problem-solving, and database-driven application development
+- 🤝 Strong teamwork, communication, and adaptability skills
+- 📍 Based in Gampaha, Sri Lanka
 
 ---
 
