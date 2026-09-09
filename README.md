@@ -57,19 +57,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pabasaraperera10&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabasaraperera10" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabasaraperera10&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to connect or check out my repositories.</i>
-</p>
