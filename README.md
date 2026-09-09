@@ -23,8 +23,22 @@
 
 ### 🔧 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,dart,mysql,mongodb,flutter,react,html,css,git,github,vscode,idea,firebase,cs" />
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,dart" />
+</p>
+
+**Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Development Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
@@ -35,9 +49,6 @@
 - 🏥 **Hospital Appointment Management System** – Role-based system for Admin, Doctor, Receptionist & Patient with appointment booking (HTML, CSS, JS, PHP, MySQL)
 - 🎬 **MondyCinema Management System** – Cinema management & ticket booking with seat reservation (HTML, CSS, JS, PHP, MySQL)
 - 📅 **Campus Event Management System** – Cross-platform event app with RSVP & feedback (Flutter, Dart, Firebase)
-- 👟 **City Style Footwear Management System** – Java OOP inventory system with role-based access (Java, MySQL, JDBC)
-- ♟️ **ABC Chess Academy System** – Menu-driven Java app for player & tournament management (Java, NetBeans)
-- 📚 **Library Management System** – Member registration, inventory & issuance tracking (C#, MySQL, Visual Studio)
 
 ---
 
